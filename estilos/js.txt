@@ -1,0 +1,9 @@
+Descripción:
+El objetivo de este libro es exponer, de forma práctica, el proceso de desarrollo de un sistema de información
+ centrándose en el análisis de las necesidades de una empresa o negocio y en el diseño lógico de un sistema de
+ información que satisfaga estos requisitos, pero sin olvidar las demás etapas en su desarrollo. Para ello, el libro
+ se estructura en tres módulos. El primer módulo introduce qué es un sistema de información, así como otros elementos
+ importantes para su comprensión. El segundo bloque expone, de forma detallada, las etapas y las fases que forman el 
+ciclo de vida de un sistema de información: planificación, análisis, diseño, implantación y soporte de sistemas. Por 
+último, el tercer bloque presenta tres técnicas: el modelado de casos de uso, el modelado de datos y el modelado de pr
+ocesos, para el desarrollo de sistemas de información a través de varios ejemplos. El libro también ofrece un conjunto de ejercicios y problemas sobre el desarrollo de sistemas de información, un glosario con los términos más importantes y una extensa bibliografía, que ayudarán al lector en su proceso de aprendizaje.
